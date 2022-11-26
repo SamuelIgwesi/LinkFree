@@ -1,0 +1,28 @@
+{
+  "name": "SAMUEL IGWESI",
+  "type": "personal",
+  "bio": "Freelance Web Developer",
+  "avatar": "https://github.com/SamuelIgwesi.png",
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/SamuelIgwesi",
+      "icon": "github"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/PRIME_DEVELOPER",
+      "icon": "twitter"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Started Freelancing",
+      "date": "November 2021",
+      "icon": "dollar",
+      "color": "grey",
+      "description": "Started freelancing"
+      "url": "https://prime-developer.onrender.com/"
+    }
+  ]
+}
